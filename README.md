@@ -1,1 +1,1 @@
-# GeoQuiz
+# USTS Android Course
