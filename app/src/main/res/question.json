@@ -1,0 +1,13 @@
+{
+  "string-array": {
+    "-name": "question",
+    "item": [
+      "Canberra is the capital of Australia",
+      "The Pacific Ocean is larger than the Atlantic Ocean",
+      "The Suez Canal connects the Red Sea and the Indian Oceans",
+      "The source of the Nile River is in Egypt",
+      "The Amazon River is the longest river in the America",
+      "Lake Baikal is the world's oldest and deepest freshwater lake"
+    ]
+  }
+}

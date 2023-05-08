@@ -1,0 +1,13 @@
+{
+  "string-array": {
+    "-name": "answer",
+    "item": [
+      "true",
+      "true",
+      "false",
+      "false",
+      "true",
+      "true"
+    ]
+  }
+}
